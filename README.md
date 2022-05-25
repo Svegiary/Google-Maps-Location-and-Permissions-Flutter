@@ -11,7 +11,7 @@ A quickstart project that :
 #### Only tested on Android (Emulator & Real Device)
 
 ## Demo
-<img src="/demo.gif" width="300" height="633.33333"/>
+<img src="/demo.gif" width="284.2105" height="600"/>
 
 
 ## Why?
