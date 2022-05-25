@@ -5,7 +5,8 @@ A quickstart project that :
 - If the user grants the permission :
   - It zooms in the user's location
 - If they decline access 
-  - It zooms in a default location   
+  - It zooms in a default location
+- When they press a floatingActionButton , it points the camera in their location   
 ### Use your own Google Maps API Key inside the ***pubspec.yaml*** file !
 #### Only tested on Android (Emulator & Real Device)
 
