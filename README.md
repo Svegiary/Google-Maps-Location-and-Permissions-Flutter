@@ -1,15 +1,22 @@
-# google_maps_integration
+# Google Maps Flutter Integration
 
-A new Flutter project.
+A quickstart project that : 
+- Requests Location Permission from the user
+- If the user grants the permission :
+  - It zooms in the user's location
+- If they decline access 
+  - It zooms in a default location   
+### Use your own Google Maps API Key inside the ***pubspec.yaml*** file !
+#### Only tested on Android (Emulator & Real Device)
 
-## Getting Started
+## Why?
+It is an extremely important feature for many map based apps and ,despite that, there are not many tutorials. This is a more complete integration that uses the futureBuilder to update the map after the location has been granted.
+Moreover , when I myself tried asking for permissions I encountered problems with the documentation of many packages and I found that , at least in my case, their tutorials did not work. Explained in the comments of the source code.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Packages Used
+- [google_maps_flutter](https://pub.dev/packages/google_maps_flutter)
+- [location](https://pub.dev/packages/location)
+- [permission_handler](https://pub.dev/packages/permission_handler)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
