@@ -19,5 +19,5 @@ Moreover , when I myself tried asking for permissions I encountered problems wit
 - [location](https://pub.dev/packages/location)
 - [permission_handler](https://pub.dev/packages/permission_handler)
 
-## Any advice/correction is encouraged. I am still new to Flutter and I want to learn. I hope this repo helps someone as well
+## Any advice/correction is encouraged. I am still new to Flutter and I want to learn. I hope this repo helps someone else as well
 
