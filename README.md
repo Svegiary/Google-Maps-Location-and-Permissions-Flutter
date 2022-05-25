@@ -18,6 +18,4 @@ Moreover , when I myself tried asking for permissions I encountered problems wit
 - [location](https://pub.dev/packages/location)
 - [permission_handler](https://pub.dev/packages/permission_handler)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
