@@ -10,6 +10,10 @@ A quickstart project that :
 ### Use your own Google Maps API Key inside `/android/src/main/AndroidManifest.xml` file !
 #### Only tested on Android (Emulator & Real Device)
 
+## Demo
+<img src="/demo.gif" width="300" height="633.33333"/>
+
+
 ## Why?
 It is an extremely important feature for many map based apps and ,despite that, there are not many tutorials. This is a more complete integration that uses the futureBuilder to update the map after the location has been granted.
 Moreover , when I myself tried asking for permissions I encountered problems with the documentation of many packages and I found that , at least in my case, their tutorials did not work. Explained in the comments of the source code.
